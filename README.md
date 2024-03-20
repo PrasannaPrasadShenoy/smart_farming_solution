@@ -1,5 +1,5 @@
 # smart_farming_solution
-### Project: Gas and Environmental Monitoring System
+### Project: Smart farming solution 
 
 #### Overview
 This Arduino-based project monitors gas levels (LPG, CO, Smoke), soil moisture, light intensity, humidity, and temperature using appropriate sensors. Data is displayed on a serial monitor for real-time observation.
